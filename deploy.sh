@@ -1,4 +1,7 @@
 Konnichiwa
 This file contains the deployment logic
 
-Updating code in the master branch
+Updated code in the master branch
+
+Updated in the dev branch
+
